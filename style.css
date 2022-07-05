@@ -1,0 +1,42 @@
+#profile td{
+    padding: 10px;
+}
+
+a:hover{
+    color: brown;
+}
+
+a:visited{
+    color: cornflowerblue;
+}
+
+#work, #nested-table{
+    border-collapse: collapse;
+}
+
+#work td, #work th{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#work tr:hover {
+    background-color: #ddd;
+}
+
+#nested-table tr:hover
+{
+    background-color: #ddd;
+}
+
+
+#work th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  #skills td{
+    padding: 10px;
+  }
